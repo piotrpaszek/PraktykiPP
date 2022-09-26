@@ -12,7 +12,7 @@
   "author": "Piotr Paszek",
   "license": "ISC",
   "devDependencies": {
-    "cssnano": "^4.1.10",
+    "cssnano": "^5.1.13",
     "sass": "^1.26.5"
   }
 }
